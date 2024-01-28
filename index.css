@@ -1,0 +1,22 @@
+.bg-container{
+    background-color:#f9fbfe;
+    background-size:cover;
+    height:100vh;
+}
+.main-heading{
+    color:#1f2933;
+    font-family:'Roboto';
+    font-size:30px;
+    padding-top:20px;
+    font-weight:bold;
+    padding-left:20px;
+}
+.image{
+    height:130px;
+    width:150px;
+}
+.para{
+    color:#323f4b;
+    font-family:'Roboto';
+    font-size:20px;
+}
